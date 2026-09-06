@@ -1,7 +1,7 @@
 # Truckwash1 Kassa
 
 Kassasysteem met klokin voor Truckwash1 Group. Werkt door zonder internet en
-praat met dezelfde database als de [wasstraat-app](https://github.com/truckwashgroup/truckwash-dashboard).
+praat met dezelfde database als de [wasstraat-app](https://github.com/Truckwash-Innovations/truckwash-dashboard).
 
 - **Windows** — Electron, met automatische updates via GitHub Releases
 - **Android-tablet** — dezelfde app als APK, via Capacitor

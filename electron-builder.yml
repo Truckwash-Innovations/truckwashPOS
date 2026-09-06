@@ -53,6 +53,6 @@ nsis:
 # de updater op.
 publish:
   - provider: github
-    owner: truckwashgroup
+    owner: Truckwash-Innovations
     repo: truckwashPOS
     releaseType: release

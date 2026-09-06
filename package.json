@@ -1,7 +1,7 @@
 {
   "name": "truckwash-pos",
   "productName": "Truckwash1 Kassa",
-  "version": "0.19.3",
+  "version": "0.19.4",
   "description": "Truckwash1 Group - kassasysteem met klokin, werkt door zonder internet",
   "author": {
     "name": "Truckwash1 Group",
@@ -67,9 +67,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/truckwashgroup/truckwashPOS.git"
+    "url": "https://github.com/Truckwash-Innovations/truckwashPOS.git"
   },
-  "homepage": "https://github.com/truckwashgroup/truckwashPOS",
+  "homepage": "https://github.com/Truckwash-Innovations/truckwashPOS",
   "optionalDependencies": {
     "@img/sharp-win32-x64": "^0.35.4"
   },
